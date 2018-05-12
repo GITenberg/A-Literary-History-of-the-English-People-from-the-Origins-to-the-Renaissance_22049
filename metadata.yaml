@@ -16,6 +16,8 @@ creator:
     wikipedia: http://en.wikipedia.org/wiki/Jean_Jules_Jusserand
 description: '[v. 1] From the origins to the end of the middle ages.--[v. 2] Time
   of renaissance. Age of Elizabeth.--[v. 3] Age of Elizabeth.'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/22049#A-Literary-History-of-the-English-People-from-the-Origins-to-the-Renaissance
 gutenberg_issued: '2007-07-11'
 gutenberg_type: Text
 identifiers:
